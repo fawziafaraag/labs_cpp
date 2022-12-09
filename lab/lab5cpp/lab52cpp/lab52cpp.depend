@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668342268 source:e:\iti\c\lab52cpp\main.cpp
+	<iostream>
+	<cstdlib>
+

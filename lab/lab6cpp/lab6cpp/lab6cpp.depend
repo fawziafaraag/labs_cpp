@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668513333 source:e:\iti\c\lab6cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+
